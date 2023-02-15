@@ -1,7 +1,12 @@
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&display=swap');
 
-
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
 /* Common Style  */
 body {
     background-color: #F3F1FF;
